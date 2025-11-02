@@ -1,0 +1,14 @@
+<Afflictions>
+	<Affliction name="Voice" 
+			identifier="tva_voice" 
+			description="" 
+			type="buff" 
+			causeofdeathdescription="" 
+			selfcauseofdeathdescription="" 
+			limbspecific="false" 
+			showiconthreshold="1" 
+			maxstrength="1">
+		<icon texture="%ModDir%/Afflictions/voice.png" sourcerect="0,0,256,256 " color="255,255,255,255" origin="0,0" />
+		<Effect minstrength="10000" maxstrength="10000" resistancefor="damage" minresistance="0" maxresistance="0" /> 
+	</Affliction>
+</Afflictions>
