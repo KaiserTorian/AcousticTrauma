@@ -1,0 +1,487 @@
+<workshopitempreviewimagedialogtitle>Select the preview image for the Steam Workshop item.</workshopitempreviewimagedialogtitle>
+<deletedialoglabel>Delete file?</deletedialoglabel>
+<deletedialogquestion>Are you sure you want to delete "[file]"?</deletedialogquestion>
+<traitor.blamebutton.dialog>I think [name] might be trying to sabotage our mission…</traitor.blamebutton.dialog>
+<traitor.blamebutton.dialog>I have a feeling [name] is a traitor…</traitor.blamebutton.dialog>
+<traitor.blamebutton.dialog>Acting mighty suspicious there, [name]…</traitor.blamebutton.dialog>
+<traitor.blamebutton.dialog>[name] is acting kinda sus, right crew? Right…?</traitor.blamebutton.dialog>
+<traitor.blamebutton.dialog>What are you up to, [name]? Something is off…</traitor.blamebutton.dialog>
+<traitor.blamebutton.dialog>Something is off about [name] today…</traitor.blamebutton.dialog>
+<traitor.blamebutton.dialog>[name], you traitorous scum. I do not trust you!</traitor.blamebutton.dialog>
+<traitor.blamebutton.dialog>What shady business have you gotten yourself into, [name]?</traitor.blamebutton.dialog>
+<traitor.blamebutton.dialog>What nefarious plan is occupying you, [name]?</traitor.blamebutton.dialog>
+<traitor.blamebutton.dialog>[name] is not working toward our mission objective. Do they have some hidden agenda?</traitor.blamebutton.dialog>
+<!-- Character dialogue -->
+<dialogaffirmative>Aye aye!</dialogaffirmative>
+<dialogaffirmative>Yes, sir!</dialogaffirmative>
+<dialogaffirmative>Aye!</dialogaffirmative>
+<dialogaffirmative>Got it!</dialogaffirmative>
+<dialogaffirmative>Sure thing!</dialogaffirmative>
+<dialogaffirmative>Copy that.</dialogaffirmative>
+<dialognegative>Negative.</dialognegative>
+<dialognegative>No way!</dialognegative>
+<dialogcannotreach>Can't reach the target.</dialogcannotreach>
+<dialogreactorfuel>Loading more fuel to the reactor!</dialogreactorfuel>
+<dialogreactortaken>Hey, I'm operating the reactor!</dialogreactortaken>
+<dialogreactortaken>Hands off please! I've got this!</dialogreactortaken>
+<dialogreactortaken>Hey, we don't need two people at the reactor!</dialogreactortaken>
+<dialogcantfindcontroller>I can't find a way to operate the [item]!</dialogcantfindcontroller>
+<dialogcantfindcontroller>I don't know how to control the [item]!</dialogcantfindcontroller>
+<dialogloadturret>Loading ammunition to the [itemname]!</dialogloadturret>
+<dialogfireturret>Firing!</dialogfireturret>
+<dialogfireturret>Fire in the hole!</dialogfireturret>
+<dialogturrettargetdead>Enemy down!</dialogturrettargetdead>
+<dialogturrettargetdead>Target down!</dialogturrettargetdead>
+<dialogturrettargetdead>I think I got it!</dialogturrettargetdead>
+<dialogturrettargetdead>Aand it's dead!</dialogturrettargetdead>
+<dialogchargebatteries>Charging [itemname] at [rate] %!</dialogchargebatteries>
+<dialogchargebatteries>[itemname] now charging at [rate] %!</dialogchargebatteries>
+<dialognobatteries>What batteries?</dialognobatteries>
+<dialognobatteries>There aren't any batteries on this boat!</dialognobatteries>
+<dialognobatteries>Can't find any batteries!</dialognobatteries>
+<dialogstopchargingbatteries>Stopped charging [itemname]!</dialogstopchargingbatteries>
+<dialogleakfixed>One leak fixed in [roomname]!</dialogleakfixed>
+<dialogleakfixed>Repairing [roomname]. A few more holes to go!</dialogleakfixed>
+<dialogleaksfixed>All leaks repaired in [roomname]!</dialogleaksfixed>
+<dialogleaksfixed>No more leaks in [roomname]!</dialogleaksfixed>
+<dialogitemrepaired>[itemname] repaired!</dialogitemrepaired>
+<dialogitemrepaired>[itemname] back in order!</dialogitemrepaired>
+<dialogitemrepaired>[itemname] fixed!</dialogitemrepaired>
+<dialoggetdivinggear>Need to find a diving suit!</dialoggetdivinggear>
+<dialoggetdivinggear>I need diving gear!</dialoggetdivinggear>
+<dialoggetoxygentank>Need to find an oxygen tank!</dialoggetoxygentank>
+<dialoggetoxygentank>I need an oxygen tank!</dialoggetoxygentank>
+<dialoggetoxygentank>Where are the oxygen tanks?</dialoggetoxygentank>
+<dialoggetoxygentank>I need oxygen!</dialoggetoxygentank>
+<dialoglowoxygen>I'm passing out!</dialoglowoxygen>
+<dialoglowoxygen>Can't breathe!</dialoglowoxygen>
+<dialoglowoxygen>gasping</dialoglowoxygen>
+<dialogbleeding>Help, I'm bleeding!</dialogbleeding>
+<dialogbleeding>I'm bleeding out!</dialogbleeding>
+<dialogbleeding>I'm losing blood!</dialogbleeding>
+<dialogpressure>Pressure rising in [roomname]!</dialogpressure>
+<dialogpressure>Dangerous pressure in [roomname]!</dialogpressure>
+<dialogpressure>Pressure level dangerously high in [roomname]!</dialogpressure>
+<dialogfindextinguisher>I need a fire extinguisher!</dialogfindextinguisher>
+<dialogfindextinguisher>Trying to find an extinguisher!</dialogfindextinguisher>
+<dialogfindextinguisher>Got to find an extinguisher!</dialogfindextinguisher>
+<dialogputoutfire>Put out a fire in [roomname]!</dialogputoutfire>
+<dialogputoutfire>Extinguished a fire in [roomname]!</dialogputoutfire>
+<dialognofire>What fire?</dialognofire>
+<dialognofire>Can't see any fires!</dialognofire>
+<dialognofire>I don't think there's any fire to put out!</dialognofire>
+<dialogsteeringtaken>Hey, I'm at the helm now!</dialogsteeringtaken>
+<dialogsteeringtaken>Hands off please! I'm steering now!</dialogsteeringtaken>
+<dialogsteeringtaken>Hey, we don't need two people to steer!</dialogsteeringtaken>
+<dialogsonartarget>A target on the sonar at [direction]!</dialogsonartarget>
+<dialogsonartarget>A blip on the sonar at [direction]!</dialogsonartarget>
+<dialogsonartarget>Something on the sonar at [direction]!</dialogsonartarget>
+<dialogsonartarget>Got a target at [direction]!</dialogsonartarget>
+<dialogsonartargetlarge>A large target on the sonar at [direction]!</dialogsonartargetlarge>
+<dialogsonartargetlarge>Got a large ping at [direction]!</dialogsonartargetlarge>
+<dialogsonartargetlarge>Something big on the sonar at [direction]!</dialogsonartargetlarge>
+<dialogsonartargetmultiple>[count] targets on the sonar at [direction]!</dialogsonartargetmultiple>
+<dialogsonartargetmultiple>We've got [count] targets at [direction]!</dialogsonartargetmultiple>
+<dialogfoundunconscioustarget>Found [targetname] unconscious in [roomname]!</dialogfoundunconscioustarget>
+<dialogfoundunconscioustarget>Giving first aid to [targetname] in [roomname]!</dialogfoundunconscioustarget>
+<dialoglistrequiredtreatments>I need to find [treatmentlist]!</dialoglistrequiredtreatments>
+<dialoglistrequiredtreatments>I need [treatmentlist] to treat [targetname]!</dialoglistrequiredtreatments>
+<dialogrequiredtreatmentoptionsfirst>[treatment1], [treatment2]</dialogrequiredtreatmentoptionsfirst>
+<dialogrequiredtreatmentoptionslast>[treatment1] or [treatment2]</dialogrequiredtreatmentoptionslast>
+<dialogtargethealed>[targetname] is back in shape!</dialogtargethealed>
+<dialogtargethealed>[targetname] is all right!</dialogtargethealed>
+<dialogtargetresuscitated>[targetname] has been resuscitated!</dialogtargetresuscitated>
+<dialogtargetresuscitated>[targetname] is back on their feet again!</dialogtargetresuscitated>
+<dialogignoreminorinjuries>[targetname]'s injuries are so minor I don't think I should waste any meds on them.</dialogignoreminorinjuries>
+<dialogignoreminorinjuries>[targetname] is mildly injured, but I think they'll manage without my help.</dialogignoreminorinjuries>
+<dialogcannotrepair>Cannot repair [itemname]!</dialogcannotrepair>
+<dialogenemydown>Enemy down!</dialogenemydown>
+<dialogenemydown>Another one eliminated.</dialogenemydown>
+<dialognorepairtargets>There's nothing to repair.</dialognorepairtargets>
+<dialognorepairtargets>What do you mean? Everything is working all right.</dialognorepairtargets>
+<dialognopumps>The pumps are okay, aren't they?</dialognopumps>
+<dialognopumps>None of the pumps require attention at the moment.</dialognopumps>
+<dialognoenemies>Can't see any intruders onboard.</dialognoenemies>
+<dialognoenemies>Enemies? Where?</dialognoenemies>
+<dialognoleaks>Cannot find any leaks.</dialognoleaks>
+<dialognoleaks>What leaks?</dialognoleaks>
+<dialogfoundwoundedtarget>Giving first aid to [targetname] in [roomname]!</dialogfoundwoundedtarget>
+<dialogfoundwoundedtarget>Treating [targetname] in [roomname]!</dialogfoundwoundedtarget>
+<dialognorescuetargets>No one seems to be in need of medical attention at the moment!</dialognorescuetargets>
+<dialognorescuetargets>I don't think anyone needs medical attention at the moment.</dialognorescuetargets>
+<dialogcannotreachtarget>Can't reach [name]!</dialogcannotreachtarget>
+<dialogcannotreachplace>Can't get there!</dialogcannotreachplace>
+<dialogcannotreachfire>Can't get to the fire at [name]!</dialogcannotreachfire>
+<dialogcannotreachleak>Can't get to the leak near [name]!</dialogcannotreachleak>
+<dialogcannotreachpatient>Can't get to [name]!</dialogcannotreachpatient>
+<dialogcannotloadturret>Failed to load ammunition to [itemname]!</dialogcannotloadturret>
+<dialog.cantupgrade>I'm not able to work on your new submarine until it has been delivered.</dialog.cantupgrade>
+<dialog.upgradepurchased>Thank you for your purchase! I will start working on your submarine shortly before you depart.</dialog.upgradepurchased>
+<dialogheardenemy>What was that sound?</dialogheardenemy>
+<dialogheardenemy>I think I heard something.</dialogheardenemy>
+<dialogheardenemy>What's that noise?</dialogheardenemy>
+<dialogattackedbyfriendly>What the hell are you doing?!</dialogattackedbyfriendly>
+<dialogattackedbyfriendly>Ow, what was that for?</dialogattackedbyfriendly>
+<dialogattackedbyfriendly>Hey! What do you think you're doing?</dialogattackedbyfriendly>
+<dialogattackedbyfriendly>Why are you doing this?</dialogattackedbyfriendly>
+<dialogattackedbyfriendly>Please, no!</dialogattackedbyfriendly>
+<dialogattackedbyfriendly>Stop it!</dialogattackedbyfriendly>
+<dialogattackedbyfriendly>Security! Security!</dialogattackedbyfriendly>
+<dialogenteroutpostwarning>Okay, that's far enough. Get back to your sub and leave right now or we'll open fire.</dialogenteroutpostwarning>
+<dialogenteroutpostwarning>You people are not welcome here. Get the hell out or you'll be leaving in a duffel bag.</dialogenteroutpostwarning>
+<dialogstealwarning>Hey! Put that back!</dialogstealwarning>
+<dialogstealwarning>What do you think you're doing? Put that back!</dialogstealwarning>
+<dialogstealwarning>Thief! Put it back right now and I'll pretend I didn't see anything.</dialogstealwarning>
+<dialogtargetdown>Enemy down!</dialogtargetdown>
+<dialogtargetdown>Target down!</dialogtargetdown>
+<dialogtargetdown>Target eliminated!</dialogtargetdown>
+<dialogtargetarrested>Target arrested!</dialogtargetarrested>
+<dialogattackedbyfriendlysecurityresponse>Stop it, right now!</dialogattackedbyfriendlysecurityresponse>
+<dialogattackedbyfriendlysecurityresponse>Stop messing around!</dialogattackedbyfriendlysecurityresponse>
+<dialogattackedbyfriendlysecurityresponse>Do you really want to take that path?</dialogattackedbyfriendlysecurityresponse>
+<dialogattackedbyfriendlysecurityresponse>Don't push your luck!</dialogattackedbyfriendlysecurityresponse>
+<dialogattackedbyfriendlysecurityresponse>Hey! This is the last warning!</dialogattackedbyfriendlysecurityresponse>
+<dialogattackedbyfriendlysecurityarrest>Okay, that's too much!</dialogattackedbyfriendlysecurityarrest>
+<dialogattackedbyfriendlysecurityarrest>Now you're in deep shit!</dialogattackedbyfriendlysecurityarrest>
+<dialogattackedbyfriendlysecurityarrest>Freeze, bastard!</dialogattackedbyfriendlysecurityarrest>
+<dialogattackedbyfriendlysecurityarrest>I'm gonna get you!</dialogattackedbyfriendlysecurityarrest>
+<dialogattackedbyfriendlysecurityarrest>Don't you run away!</dialogattackedbyfriendlysecurityarrest>
+<dialogattackedbyfriendlysecurityarrest>Stop right there!</dialogattackedbyfriendlysecurityarrest>
+<dialogcannotfindrequireditemtorepair>Can't find the tools to do the repairs!</dialogcannotfindrequireditemtorepair>
+<dialogcannotfindrequireditemtorepair>I don't have the tools for the repairs!</dialogcannotfindrequireditemtorepair>
+<dialogcannotfindfireextinguisher>I need something to help with the fire! Where are all the fire extinguishers?</dialogcannotfindfireextinguisher>
+<dialogcannotfindfireextinguisher>Can't find any fire extinguishers on board!</dialogcannotfindfireextinguisher>
+<dialogcannotfindweldingequipment>Where's all the welding equipment? I can't find any!</dialogcannotfindweldingequipment>
+<dialogcannotfindweldingequipment>A torch, a welding torch... Where are you when I need you the most?</dialogcannotfindweldingequipment>
+<dialogdamagewallswarning>Hey, what the hell do you think you're doing?!</dialogdamagewallswarning>
+<dialogdamagewallswarning>Stop that or you'll drown us all!</dialogdamagewallswarning>
+<dialogdamagewallswarning>Are you out of your mind? Stop it or you'll flood the whole place!</dialogdamagewallswarning>
+<dialogidentifiedtargetspotted>Target spotted: [speciesname]!</dialogidentifiedtargetspotted>
+<dialogidentifiedtargetspotted>New target: [speciesname]!</dialogidentifiedtargetspotted>
+<dialogidentifiedtargetspotted>Target locked: [speciesname]!</dialogidentifiedtargetspotted>
+<dialogidentifiedtargetspotted>Target identified: [speciesname]!</dialogidentifiedtargetspotted>
+<dialogunidentifiedtargetspotted>I've got a new target! I'm not sure what it is...</dialogunidentifiedtargetspotted>
+<dialogunidentifiedtargetspotted>An unknown target spotted!</dialogunidentifiedtargetspotted>
+<dialognewtargetspotted>New target spotted!</dialognewtargetspotted>
+<dialognewtargetspotted>I've got a new target!</dialognewtargetspotted>
+<dialogicespirespotted>New target: ice spire!</dialogicespirespotted>
+<dialogicespirespotted>Target locked: ice spire!</dialogicespirespotted>
+<dialogicespirespotted>Targeting an ice spire!</dialogicespirespotted>
+<dialogicespirespottedsonar>Ice spire spotted!</dialogicespirespottedsonar>
+<dialogicespirespottedsonar>Got some ice spires on the sonar!</dialogicespirespottedsonar>
+<dialogcannottreatpatient>I don't have the means to treat [name]!</dialogcannottreatpatient>
+<dialogcannottreatpatient>I'm sorry, there's nothing I can do for [name]!</dialogcannottreatpatient>
+<dialogcantfindtoxygen>I can't find any oxygen tanks!</dialogcantfindtoxygen>
+<dialogswappingoxygentank>Swapping oxygen tanks!</dialogswappingoxygentank>
+<dialoglowonweldingfuel>There's not many welding fuel tanks left aboard the sub!</dialoglowonweldingfuel>
+<dialoglowonoxygentanks>Almost all the oxygen tanks on the sub are empty! Can we get some of the empty tanks to the oxygen generator for refilling?</dialoglowonoxygentanks>
+<dialoglowoncoilgunammo>We're running low on coilgun ammunition! Fire short controlled bursts!</dialoglowoncoilgunammo>
+<dialoglowonrailgunammo>There's not many railgun shells left onboard.</dialoglowonrailgunammo>
+<dialoglowonturretammo>We're running low on ammunition. We should get some more at the next stop.</dialoglowonturretammo>
+<dialoglowonfuelrods>We're very low on fuel rods. We should buy more ASAP, or make some.</dialoglowonfuelrods>
+<dialogoutofweldingfuel>We're out of welding fuel!</dialogoutofweldingfuel>
+<dialogoutofoxygentanks>All our oxygen tanks are empty!</dialogoutofoxygentanks>
+<dialogoutofcoilgunammo>We're out of coilgun ammunition.</dialogoutofcoilgunammo>
+<dialogoutofrailgunammo>There are no more shells for the railgun!</dialogoutofrailgunammo>
+<dialogoutofturretammo>We're out of ammunition!</dialogoutofturretammo>
+<dialogoutoffuelrods>We're completely out of fuel rods!</dialogoutoffuelrods>
+<dialogcannotfindloadable>I can't find the items I'm looking for!</dialogcannotfindloadable>
+<dialogcannotfindloadable>I can't find anything to load into these containers!</dialogcannotfindloadable>
+<dialogcannotfindloadable.batterycells>I can't find battery cells to recharge!</dialogcannotfindloadable.batterycells>
+<dialogcannotfindloadable.batterycells>I can't find anything to recharge!</dialogcannotfindloadable.batterycells>
+<dialogcannotfindloadable.oxygentanks>I can't find oxygen tanks to refill!</dialogcannotfindloadable.oxygentanks>
+<dialogcannotfindloadable.oxygentanks>I can't find any tanks to refill!</dialogcannotfindloadable.oxygentanks>
+<dialogcannotfindloadable.turretammo>I can't find ammo for the submarine weapons!</dialogcannotfindloadable.turretammo>
+<dialogcannotfindloadable.turretammo>I can't find any ammo to put into the loaders!</dialogcannotfindloadable.turretammo>
+<dialoglastoxygentank>I'm using my last oxygen tank now.</dialoglastoxygentank>
+<dialoglastoxygentank>I've got no more oxygen tanks after this one.</dialoglastoxygentank>
+<dialoglastoxygentank>This is my last oxygen tank then.</dialoglastoxygentank>
+<dialogcannotfinditem>I can't find the item.</dialogcannotfinditem>
+<dialogcombatnoweapons>I don't have a weapon to defend myself!</dialogcombatnoweapons>
+<dialogcombatnoweapons>I need a weapon!</dialogcombatnoweapons>
+<dialogcombatretreating>Trying to get somewhere safe!</dialogcombatretreating>
+<dialogcombatretreating>Get away from me!</dialogcombatretreating>
+<dialogcombatretreating>AAAAAAAAAA!</dialogcombatretreating>
+<dialogcombatretreating>Fucking creatures everywhere!</dialogcombatretreating>
+<dialogcombatretreating>Help!</dialogcombatretreating>
+<dialogcombatretreating>Help me!</dialogcombatretreating>
+<dialogcannotreturn>Can't get back to the submarine!</dialogcannotreturn>
+<dialogcannotreturn>I can't find my way back to the submarine!</dialogcannotreturn>
+<dialogturrethasnopower>There's no power in the supercapacitor!</dialogturrethasnopower>
+<dialogturrethasnopower>The supercapacitor is dead!</dialogturrethasnopower>
+<dialogturrethasnopower>I can't shoot! The turret is not working.</dialogturrethasnopower>
+<dialogsupercapacitorisbroken>The supercapacitor is broken!</dialogsupercapacitorisbroken>
+<dialogsupercapacitorisbroken>The supercapacitor is not working!</dialogsupercapacitorisbroken>
+<dialogsupercapacitorisbroken>The supercapacitor is malfunctioning!</dialogsupercapacitorisbroken>
+<dialogsupercapacitorisbroken>I need someone to fix the supercapacitor!</dialogsupercapacitorisbroken>
+<dialogreactorisbroken>The reactor is broken!</dialogreactorisbroken>
+<dialogreactorisbroken>The reactor is not working!</dialogreactorisbroken>
+<dialogreactorisbroken>The reactor is malfunctioning!</dialogreactorisbroken>
+<dialogreactorisbroken>I need someone to fix the reactor!</dialogreactorisbroken>
+<dialognavterminalisbroken>The navigation terminal is broken!</dialognavterminalisbroken>
+<dialognavterminalisbroken>The navigation terminal is not working!</dialognavterminalisbroken>
+<dialognavterminalisbroken>The navigation terminal is malfunctioning!</dialognavterminalisbroken>
+<dialognavterminalisbroken>I need someone to fix the navigation terminal!</dialognavterminalisbroken>
+<dialogmentalstateconfused>Uhh... What was that?</dialogmentalstateconfused>
+<dialogmentalstateconfused>Huh... I must be seeing things.</dialogmentalstateconfused>
+<dialogmentalstateconfused>That can't be right...</dialogmentalstateconfused>
+<dialogmentalstateconfused>Huh? Did you hear that?</dialogmentalstateconfused>
+<dialogmentalstateafraid>I don't feel safe here.</dialogmentalstateafraid>
+<dialogmentalstateafraid>Is someone out there?</dialogmentalstateafraid>
+<dialogmentalstateafraid>Who's there?</dialogmentalstateafraid>
+<dialogmentalstateafraid>I want to go home.</dialogmentalstateafraid>
+<dialogmentalstatedesperate>Shut up. Shut up. Shut up.</dialogmentalstatedesperate>
+<dialogmentalstatedesperate>I don't... I can't...</dialogmentalstatedesperate>
+<dialogmentalstatedesperate>Please leave me alone.</dialogmentalstatedesperate>
+<dialogmentalstatedesperate>They're coming for me.</dialogmentalstatedesperate>
+<dialogmentalstateberserk>It will all be over soon.</dialogmentalstateberserk>
+<dialogmentalstateberserk>I understand my purpose.</dialogmentalstateberserk>
+<dialogmentalstateberserk>They won't trouble us for long.</dialogmentalstateberserk>
+<dialogmentalstateberserk>I will set things right.</dialogmentalstateberserk>
+<dialogmentalstatereactionretreat>I want to go home!</dialogmentalstatereactionretreat>
+<dialogmentalstatereactionretreat>Stay away from me!</dialogmentalstatereactionretreat>
+<dialogmentalstatereactionretreat>Make it stop!</dialogmentalstatereactionretreat>
+<dialogmentalstatereactionretreat>Oh god, oh god!</dialogmentalstatereactionretreat>
+<dialogmentalstatereactiondefensive>I won't let you take me!</dialogmentalstatereactiondefensive>
+<dialogmentalstatereactiondefensive>Get away from me, damnit!</dialogmentalstatereactiondefensive>
+<dialogmentalstatereactiondefensive>I can't take it anymore!</dialogmentalstatereactiondefensive>
+<dialogmentalstatereactiondefensive>Just let me go home!</dialogmentalstatereactiondefensive>
+<dialogmentalstatereactionarrest>These people cannot be trusted!</dialogmentalstatereactionarrest>
+<dialogmentalstatereactionarrest>I won't let you hurt me!</dialogmentalstatereactionarrest>
+<dialogmentalstatereactionarrest>Get down on the ground!</dialogmentalstatereactionarrest>
+<dialogmentalstatereactionarrest>I have to put you down!</dialogmentalstatereactionarrest>
+<dialogmentalstatereactionoffensive>AHAHAHAHA!</dialogmentalstatereactionoffensive>
+<dialogmentalstatereactionoffensive>I'll end you!</dialogmentalstatereactionoffensive>
+<dialogmentalstatereactionoffensive>Die, scum!</dialogmentalstatereactionoffensive>
+<dialogmentalstatereactionoffensive>Kill! Kill! Kill!</dialogmentalstatereactionoffensive>
+<dialogterroristannounce>This ship belongs to the Jovian Separatists!</dialogterroristannounce>
+<dialogterroristannounce>Death to the Coalition!</dialogterroristannounce>
+<dialogterroristannounce>Long live the revolution!</dialogterroristannounce>
+<dialogterroristannounce>This ship will serve the Separatists well!</dialogterroristannounce>
+<dialogterroristannounce>You must all die for the revolution!</dialogterroristannounce>
+<dialogterroristannounce>The Jovian Separatists shall be victorious!</dialogterroristannounce>
+<dialogterroristannounce>The Jovian Separatists shall rule Europa!</dialogterroristannounce>
+<dialogoutofchaingunammo>We're out of chaingun ammunition.</dialogoutofchaingunammo>
+<dialogoutofpulselaserammo>We're out of pulse laser fuel.</dialogoutofpulselaserammo>
+<dialoglowonchaingunammo>We're running low on chaingun ammunition! Fire short controlled bursts!</dialoglowonchaingunammo>
+<dialoglowonpulselaserammo>There's not much pulse laser fuel left onboard.</dialoglowonpulselaserammo>
+<dialoghuskdormant>My throat feels a bit sore.</dialoghuskdormant>
+<dialoghuskdormant>I think I might have a fever.</dialoghuskdormant>
+<dialoghuskdormant>I feel really weak. Every muscle hurts.</dialoghuskdormant>
+<dialoghuskcantspeak>There's something in my mouth...</dialoghuskcantspeak>
+<dialoginsufficientpressureprotection>I'm not protected enough from the pressure!</dialoginsufficientpressureprotection>
+<dialoginsufficientpressureprotection>The pressure is breaking up my suit!</dialoginsufficientpressureprotection>
+<dialoginsufficientpressureprotection>I'm getting crushed by the pressure!</dialoginsufficientpressureprotection>
+<dialogcannottreatself>I don't have the means to treat myself!</dialogcannottreatself>
+<dialoglowrepcampaigninteraction>Honestly, I'd rather not do business with you people, but I don't have the luxury of picking my customers.</dialoglowrepcampaigninteraction>
+<dialoglowrepcampaigninteraction>They say I shouldn't be serving you, but I say I shouldn't be turning down a paying customer.</dialoglowrepcampaigninteraction>
+<dialoglowrepcampaigninteraction>If I wasn't broke, I'd tell you to piss off. But if you've got the money…</dialoglowrepcampaigninteraction>
+<dialoglowrepcampaigninteraction>Oh, you're one of those people. Although…if there's marks in your wallet, let's pretend you're just a kind stranger in need of my services.</dialoglowrepcampaigninteraction>
+<dialogrefusedragging>Let go of me!</dialogrefusedragging>
+<dialogrefusedragging>Get your hands off me!</dialogrefusedragging>
+<dialogrefusedragging>Stop that!</dialogrefusedragging>
+<dialogcheckstolenitems>This is a mandatory security inspection. Just a moment.</dialogcheckstolenitems>
+<dialogcheckstolenitems>Someone's been stealing our supplies as of late. I'll just pat you down quick to make sure it wasn't you…</dialogcheckstolenitems>
+<dialogcheckstolenitems>Hey, you! I need to check your pockets. Hold on for a second.</dialogcheckstolenitems>
+<dialogcheckstolenitems.nostolenitems>Thank you for your cooperation. You're free to go.</dialogcheckstolenitems.nostolenitems>
+<dialogcheckstolenitems.nostolenitems>Everything's in order. Have a good day!</dialogcheckstolenitems.nostolenitems>
+<dialogcheckstolenitems.nostolenitems>No problems here. Carry on!</dialogcheckstolenitems.nostolenitems>
+<dialogcheckstolenitems.warn>What do we have here? Drop the stolen goods and I'll let it slide this time.</dialogcheckstolenitems.warn>
+<dialogcheckstolenitems.warn>Took something that doesn't belong to you, eh? Drop the stolen goods right now!</dialogcheckstolenitems.warn>
+<dialogcheckstolenitems.warn>Thief! Drop the stolen items now or there will be consequences.</dialogcheckstolenitems.warn>
+<dialogcheckstolenitems.arrest>All right, have it your way then. You're under arrest!</dialogcheckstolenitems.arrest>
+<dialogcheckstolenitems.arrest>Want to do this the hard way, huh? Fine.</dialogcheckstolenitems.arrest>
+<dialogcheckstolenitems.comply>You're off the hook for now. But I'll be keeping an eye on you…</dialogcheckstolenitems.comply>
+<dialogcheckstolenitems.comply>Okay, you're free to go. But I'll be keeping an eye on you…</dialogcheckstolenitems.comply>
+<dialogarrest.firstwarning>I'm warning you: Drop the stolen items now!</dialogarrest.firstwarning>
+<dialogarrest.firstwarning>Freeze! Hands in the air! Give me the stolen property, right now!</dialogarrest.firstwarning>
+<dialogarrest.firstwarning>Stop right there! Hand over the stolen items immediately!</dialogarrest.firstwarning>
+<dialogarrest.lastwarning>This is the last warning! Surrender now or deal with the consequences!</dialogarrest.lastwarning>
+<dialogarrest.lastwarning>This is the last warning! Stop right there!</dialogarrest.lastwarning>
+<dialogarrest.lastwarning>Down on your knees! NOW!</dialogarrest.lastwarning>
+<dialogcheckstolenitems.criminal>Hey, you! I was told you might have something that doesn't belong to you. Let's see what you've got...</dialogcheckstolenitems.criminal>
+<dialogcheckstolenitems.criminal>Hey, I know you! I need to check your pockets. Stop right there!</dialogcheckstolenitems.criminal>
+<dialogcheckstolenitems.arrest.criminal>I knew you were a thief! You're under arrest!</dialogcheckstolenitems.arrest.criminal>
+<dialogcheckstolenitems.nostolenitems.criminal>Hmm, okay. You can go, for now...</dialogcheckstolenitems.nostolenitems.criminal>
+<dialogcheckstolenitems.nostolenitems.criminal>I could have sworn I saw you carrying something. You can go, for now...</dialogcheckstolenitems.nostolenitems.criminal>
+<dialogcheckstolenitems.nostolenitems.criminal>Huh? Nothing here. Well, I'll check you again soon.</dialogcheckstolenitems.nostolenitems.criminal>
+<dialogcheckstolenitems.holdstill>Hold still, would you!</dialogcheckstolenitems.holdstill>
+<dialogcheckstolenitems.holdstill>Don't move!</dialogcheckstolenitems.holdstill>
+<dialogcheckstolenitems.holdstill>Stop moving already!</dialogcheckstolenitems.holdstill>
+<dialog.exosuit.refuel>Refueling!</dialog.exosuit.refuel>
+<dialog.exosuit.refuel>Swapping fuel source!</dialog.exosuit.refuel>
+<dialog.exosuit.outoffuel>Damn... Out of fuel.</dialog.exosuit.outoffuel>
+<dialog.exosuit.outoffuel>I'm out of fuel. Cannot move.</dialog.exosuit.outoffuel>
+<dialog.exosuit.outoffuel>Could someone please fetch me some fuel for this suit? I can't move!</dialog.exosuit.outoffuel>
+<orderdialog.follow>[name], follow me!</orderdialog.follow>
+<orderdialogself.follow>Lead the way!</orderdialogself.follow>
+<orderdialog.wait>[name], wait there!</orderdialog.wait>
+<orderdialog.wait>[name], stay where you are!</orderdialog.wait>
+<orderdialogself.wait>I'll wait here!</orderdialogself.wait>
+<orderdialog.dismissed>[name], you are dismissed!</orderdialog.dismissed>
+<orderdialogself.dismissed></orderdialogself.dismissed>
+<orderdialog.operatereactor>[name], operate the reactor!</orderdialog.operatereactor>
+<orderdialog.operatereactor>[name], man the reactor!</orderdialog.operatereactor>
+<orderdialogself.operatereactor>I'll operate the reactor!</orderdialogself.operatereactor>
+<orderdialogself.operatereactor>I'll take care of the reactor!</orderdialogself.operatereactor>
+<orderdialog.operatereactor.powerup>[name], power up the reactor!</orderdialog.operatereactor.powerup>
+<orderdialogself.operatereactor.powerup>I'll power up the reactor!</orderdialogself.operatereactor.powerup>
+<orderdialog.operatereactor.shutdown>[name], shut down the reactor!</orderdialog.operatereactor.shutdown>
+<orderdialogself.operatereactor.shutdown>I'll shut down the reactor!</orderdialogself.operatereactor.shutdown>
+<orderdialog.operateweapons>[name], operate the weapons!</orderdialog.operateweapons>
+<orderdialog.operateweapons>[name], man the weapons!</orderdialog.operateweapons>
+<orderdialog.operateweapons>[name], man the guns!</orderdialog.operateweapons>
+<orderdialogself.operateweapons>I'll man the guns!</orderdialogself.operateweapons>
+<orderdialog.operateweapons.fireatwill>[name], fire at will!</orderdialog.operateweapons.fireatwill>
+<orderdialogself.operateweapons.fireatwill>I'm ready to fire!</orderdialogself.operateweapons.fireatwill>
+<orderdialog.operateweapons.holdfire>[name], hold fire!</orderdialog.operateweapons.holdfire>
+<orderdialogself.operateweapons.holdfire>Holding fire!</orderdialogself.operateweapons.holdfire>
+<orderdialog.steer>[name], man the helm!</orderdialog.steer>
+<orderdialog.steer>[name], steer the submarine!</orderdialog.steer>
+<orderdialogself.steer>I'll steer the submarine!</orderdialogself.steer>
+<orderdialogself.steer>I'll man the helm!</orderdialogself.steer>
+<orderdialog.steer.maintainposition>[name], maintain position!</orderdialog.steer.maintainposition>
+<orderdialog.steer.maintainposition>[name], hold our position!</orderdialog.steer.maintainposition>
+<orderdialogself.steer.maintainposition>I'll maintain our position!</orderdialogself.steer.maintainposition>
+<orderdialog.steer.navigateback>[name], set the course back!</orderdialog.steer.navigateback>
+<orderdialogself.steer.navigateback>I'll set the course back!</orderdialogself.steer.navigateback>
+<orderdialog.steer.navigatetodestination>[name], navigate onwards!</orderdialog.steer.navigatetodestination>
+<orderdialog.steer.navigatetodestination>[name], set the course onwards!</orderdialog.steer.navigatetodestination>
+<orderdialog.steer.navigatetodestination>[name], set the course to our destination!</orderdialog.steer.navigatetodestination>
+<orderdialogself.steer.navigatetodestination>I'll set the course onwards!</orderdialogself.steer.navigatetodestination>
+<orderdialog.fixleaks>[name], start fixing leaks!</orderdialog.fixleaks>
+<orderdialog.fixleaks>[name], take care of any leaks!</orderdialog.fixleaks>
+<orderdialogself.fixleaks>I'll take care of leaks!</orderdialogself.fixleaks>
+<orderdialog.extinguishfires>[name], extinguish the fire!</orderdialog.extinguishfires>
+<orderdialogself.extinguishfires>I'll extinguish the fires!</orderdialogself.extinguishfires>
+<orderdialog.chargebatteries>[name], operate the batteries!</orderdialog.chargebatteries>
+<orderdialogself.chargebatteries>I'll operate the batteries!</orderdialogself.chargebatteries>
+<orderdialog.chargebatteries.charge>[name], charge the batteries!</orderdialog.chargebatteries.charge>
+<orderdialog.chargebatteries.charge>[name], make sure all batteries are charged!</orderdialog.chargebatteries.charge>
+<orderdialogself.chargebatteries.charge>I'll charge the batteries!</orderdialogself.chargebatteries.charge>
+<orderdialog.chargebatteries.stopcharging>[name], stop charging the batteries!</orderdialog.chargebatteries.stopcharging>
+<orderdialogself.chargebatteries.stopcharging>I'll stop charging the batteries!</orderdialogself.chargebatteries.stopcharging>
+<orderdialog.pumpwater>[name], start pumping out water!</orderdialog.pumpwater>
+<orderdialogself.pumpwater>I'll start pumping out water!</orderdialogself.pumpwater>
+<orderdialog.pumpwater.pumpout>[name], start pumping out water!</orderdialog.pumpwater.pumpout>
+<orderdialogself.pumpwater.pumpout>I'll start pumping out water!</orderdialogself.pumpwater.pumpout>
+<orderdialog.pumpwater.stoppumping>[name], shut down the pumps!</orderdialog.pumpwater.stoppumping>
+<orderdialog.pumpwater.stoppumping>[name], stop the pumps!</orderdialog.pumpwater.stoppumping>
+<orderdialogself.pumpwater.stoppumping>I'll stop the pumps!</orderdialogself.pumpwater.stoppumping>
+<orderdialog.rescue>[name], rescue anyone in distress!</orderdialog.rescue>
+<orderdialog.rescue>[name], give medical aid to anyone in need!</orderdialog.rescue>
+<orderdialogself.rescue>I'll give medical aid to anyone in need!</orderdialogself.rescue>
+<orderdialog.repairsystems>[name], repair damaged systems!</orderdialog.repairsystems>
+<orderdialog.repairsystems>[name], take care of broken devices!</orderdialog.repairsystems>
+<orderdialogself.repairsystems>I'll take care of broken devices!</orderdialogself.repairsystems>
+<orderdialog.repairsystems.jobspecific>[name], repair damaged systems!</orderdialog.repairsystems.jobspecific>
+<orderdialog.repairsystems.jobspecific>[name], take care of broken devices!</orderdialog.repairsystems.jobspecific>
+<orderdialogself.repairsystems.jobspecific>I'll take care of broken devices!</orderdialogself.repairsystems.jobspecific>
+<orderdialog.repairsystems.all>[name], repair any damaged systems! I don't care if you don't have the skills—do your best!</orderdialog.repairsystems.all>
+<orderdialog.repairsystems.all>[name], try to fix any broken devices, even if it's something you're not trained for!</orderdialog.repairsystems.all>
+<orderdialog.repairsystems.all>[name], repair any damaged devices! Anything you can—I don't care about your training now!</orderdialog.repairsystems.all>
+<orderdialogself.repairsystems.all>I'll take care of broken devices!</orderdialogself.repairsystems.all>
+<orderdialog.reportfire>Fire in [roomname]!</orderdialog.reportfire>
+<orderdialog.reportfire>[roomname] is on fire!</orderdialog.reportfire>
+<orderdialog.reportbreach>Hull breach in [roomname]!</orderdialog.reportbreach>
+<orderdialog.reportbreach>Leak in [roomname]!</orderdialog.reportbreach>
+<orderdialog.reportintruders>Intruders in [roomname]!</orderdialog.reportintruders>
+<orderdialog.reportintruders>Hostiles in [roomname]!</orderdialog.reportintruders>
+<orderdialog.reportbrokendevices>Broken devices in [roomname]!</orderdialog.reportbrokendevices>
+<orderdialog.reportbrokendevices>Need someone to repair devices in [roomname]!</orderdialog.reportbrokendevices>
+<orderdialog.requestfirstaid>Need a medic in [roomname]!</orderdialog.requestfirstaid>
+<orderdialog.requestfirstaid>Need medical assistance in [roomname]!</orderdialog.requestfirstaid>
+<orderdialog.fightintruders>[name], eliminate all intruders!</orderdialog.fightintruders>
+<orderdialog.fightintruders>[name], defend the crew!</orderdialog.fightintruders>
+<orderdialogself.fightintruders>Taking care of the intruders!</orderdialogself.fightintruders>
+<orderdialogself.fightintruders>Fighting the enemy!</orderdialogself.fightintruders>
+<orderdialog.repairelectrical>[name], repair electrical systems!</orderdialog.repairelectrical>
+<orderdialog.repairelectrical>[name], take care of electrical devices!</orderdialog.repairelectrical>
+<orderdialogself.repairelectrical>I'll take care of electrical devices!</orderdialogself.repairelectrical>
+<orderdialog.repairmechanical>[name], repair mechanical systems!</orderdialog.repairmechanical>
+<orderdialog.repairmechanical>[name], take care of mechanical devices!</orderdialog.repairmechanical>
+<orderdialogself.repairmechanical>I'll take care of mechanical devices!</orderdialogself.repairmechanical>
+<orderdialog.cleanupitems>[name], clean up all the items lying around!</orderdialog.cleanupitems>
+<orderdialog.cleanupitems>[name], put things back where they belong!</orderdialog.cleanupitems>
+<orderdialogself.cleanupitems>Cleaning up items!</orderdialogself.cleanupitems>
+<orderdialogself.cleanupitems>Putting things where they belong!</orderdialogself.cleanupitems>
+<orderdialog.ignorethis>Ignore the target in [roomname]!</orderdialog.ignorethis>
+<orderdialog.ignorethis>Don't touch the target in [roomname]!</orderdialog.ignorethis>
+<orderdialog.unignorethis>Stop ignoring the target in [roomname]!</orderdialog.unignorethis>
+<orderdialog.unignorethis>You should consider the target in [roomname] again!</orderdialog.unignorethis>
+<orderdialog.reportballastflora>There's something alien growing in [roomname].</orderdialog.reportballastflora>
+<orderdialog.reportballastflora>I found weird, fleshy, plants in [roomname].</orderdialog.reportballastflora>
+<orderdialog.reportballastflora>We need to do something to these things growing in [roomname]!</orderdialog.reportballastflora>
+<orderdialog.assaultenemy>[name], find and eliminate all enemies!</orderdialog.assaultenemy>
+<orderdialog.assaultenemy>[name], take care of any enemy you can find!</orderdialog.assaultenemy>
+<orderdialogself.assaultenemy>I'll eliminate the enemies!</orderdialogself.assaultenemy>
+<orderdialogself.assaultenemy>I'll take care of the enemies!</orderdialogself.assaultenemy>
+<orderdialog.dismissed.assaultenemy>[name], leave the enemies for now!</orderdialog.dismissed.assaultenemy>
+<orderdialog.dismissed.assaultenemy>[name], time to retreat!</orderdialog.dismissed.assaultenemy>
+<orderdialog.reporttraitor>Something suspicious is going on in [roomname]!</orderdialog.reporttraitor>
+<orderdialog.reporttraitor>I think we might have a traitor in [roomname]!</orderdialog.reporttraitor>
+<orderdialog.loaditems.batterycells>[name], make sure all the battery cells are charged!</orderdialog.loaditems.batterycells>
+<orderdialog.loaditems.batterycells>[name], get those battery cells charged!</orderdialog.loaditems.batterycells>
+<orderdialogself.loaditems.batterycell>I'll charge the battery cells.</orderdialogself.loaditems.batterycell>
+<orderdialog.loaditems.oxygentanks>[name], make sure all the oxygen tanks are filled!</orderdialog.loaditems.oxygentanks>
+<orderdialog.loaditems.oxygentanks>[name], fill the oxygen tanks!</orderdialog.loaditems.oxygentanks>
+<orderdialogself.loaditems.oxygentanks>I'll fill the oxygen tanks.</orderdialogself.loaditems.oxygentanks>
+<orderdialog.loaditems.turretammo>[name], make sure the submarine weapons don't run out of ammo!</orderdialog.loaditems.turretammo>
+<orderdialog.loaditems.turretammo>[name], load ammo for the submarine weapons!</orderdialog.loaditems.turretammo>
+<orderdialog.dismissed.loaditems>[name], never mind the weapon!</orderdialog.dismissed.loaditems>
+<orderdialogself.loaditems.turretammo>I'll load ammo for the submarine weapons.</orderdialogself.loaditems.turretammo>
+<orderdialog.pumpwater.pumpin>[name], start pumping in water!</orderdialog.pumpwater.pumpin>
+<orderdialogself.pumpwater.pumpin>I'll start pumping in water!</orderdialogself.pumpwater.pumpin>
+<orderdialog.findweapon>[name], grab a gun!</orderdialog.findweapon>
+<orderdialog.findweapon>[name], arm yourself!</orderdialog.findweapon>
+<orderdialog.findweapon>[name], pick a weapon!</orderdialog.findweapon>
+<orderdialog.prepareforexpedition>[name], prepare to leave the sub!</orderdialog.prepareforexpedition>
+<orderdialog.prepareforexpedition>[name], let's go outside!</orderdialog.prepareforexpedition>
+<orderdialog.prepareforexpedition>[name], let's have a dive!</orderdialog.prepareforexpedition>
+<orderdialog.dismissed.findweapon>[name], never mind the weapon!</orderdialog.dismissed.findweapon>
+<orderdialog.dismissed.prepareforexpedition>[name], forget it!</orderdialog.dismissed.prepareforexpedition>
+<orderdialog.return>[name], return to the submarine!</orderdialog.return>
+<orderdialogself.return>I'll return to the submarine!</orderdialogself.return>
+<orderdialog.dismissed.return>[name], you don't have to return to the submarine!</orderdialog.dismissed.return>
+<orderdialog.dismissed.follow>[name], thanks for following me!</orderdialog.dismissed.follow>
+<orderdialog.dismissed.wait>[name], thanks for waiting!</orderdialog.dismissed.wait>
+<orderdialog.dismissed.operatereactor>[name], thanks for operating the reactor!</orderdialog.dismissed.operatereactor>
+<orderdialog.dismissed.operatereactor>[name], thanks for manning the reactor!</orderdialog.dismissed.operatereactor>
+<orderdialog.dismissed.operateweapons>[name], thanks for operating the weapons!</orderdialog.dismissed.operateweapons>
+<orderdialog.dismissed.operateweapons>[name], thanks for manning the weapons!</orderdialog.dismissed.operateweapons>
+<orderdialog.dismissed.operateweapons>[name], thanks for manning the guns!</orderdialog.dismissed.operateweapons>
+<orderdialog.dismissed.steer>[name], thanks for manning the helm!</orderdialog.dismissed.steer>
+<orderdialog.dismissed.steer>[name], thanks for steering the submarine!</orderdialog.dismissed.steer>
+<orderdialog.dismissed.fixleaks>[name], thanks for fixing the leaks!</orderdialog.dismissed.fixleaks>
+<orderdialog.dismissed.fixleaks>[name], thanks for taking care of the leaks!</orderdialog.dismissed.fixleaks>
+<orderdialog.dismissed.extinguishfires>[name], thanks for extinguishing the fire!</orderdialog.dismissed.extinguishfires>
+<orderdialog.dismissed.chargebatteries>[name], thanks for operating the batteries!</orderdialog.dismissed.chargebatteries>
+<orderdialog.dismissed.pumpwater>[name], thanks for pumping out water!</orderdialog.dismissed.pumpwater>
+<orderdialog.dismissed.rescue>[name], thanks for giving medical aid!</orderdialog.dismissed.rescue>
+<orderdialog.dismissed.repairsystems>[name], thanks for repairing damaged systems!</orderdialog.dismissed.repairsystems>
+<orderdialog.dismissed.repairsystems>[name], thanks for taking care of broken devices!</orderdialog.dismissed.repairsystems>
+<orderdialog.dismissed.fightintruders>[name], thanks for eliminating all intruders!</orderdialog.dismissed.fightintruders>
+<orderdialog.dismissed.fightintruders>[name], thanks for defending the crew!</orderdialog.dismissed.fightintruders>
+<orderdialog.dismissed.repairelectrical>[name], thanks for repairing electrical systems!</orderdialog.dismissed.repairelectrical>
+<orderdialog.dismissed.repairelectrical>[name], thanks for taking care of electrical devices!</orderdialog.dismissed.repairelectrical>
+<orderdialog.dismissed.repairmechanical>[name], thanks for repairing mechanical systems!</orderdialog.dismissed.repairmechanical>
+<orderdialog.dismissed.repairmechanical>[name], thanks for taking care of mechanical devices!</orderdialog.dismissed.repairmechanical>
+<orderdialog.dismissed.cleanupitems>[name], thanks for cleaning up all the items lying around!</orderdialog.dismissed.cleanupitems>
+<orderdialog.dismissed.cleanupitems>[name], thanks for putting things back where they belong!</orderdialog.dismissed.cleanupitems>
+<orderdialog.prisonerescaped>Prisoner on the run in [roomname]!</orderdialog.prisonerescaped>
+<orderdialog.prisonerescaped>Prisoner breaking out in [roomname]!</orderdialog.prisonerescaped>
+<orderdialog.mentalcase>Mental breakdown in [roomname]!</orderdialog.mentalcase>
+<orderdialog.mentalcase>We have a nutcase in [roomname]!</orderdialog.mentalcase>
+<orderdialog.deconstructthis>This [target] can be deconstructed!</orderdialog.deconstructthis>
+<orderdialog.dontdeconstructthis>Let's not deconstruct this [target]!</orderdialog.dontdeconstructthis>
+<orderdialog.deconstructthis>Let's deconstruct this [target]!</orderdialog.deconstructthis>
+<orderdialog.deconstructitems>[name], start deconstructing items marked for deconstruction!</orderdialog.deconstructitems>
+<orderdialogself.deconstructitem>I'll deconstruct this item!</orderdialogself.deconstructitem>
+<orderdialogself.deconstructitem.nodeconstructor>I can't find a deconstructor!</orderdialogself.deconstructitem.nodeconstructor>
+<dialogoperatetargetroomisunsafe>Cannot operate [item], because the room is currently unsafe.</dialogoperatetargetroomisunsafe>
+<dialogoperatetargetroomisunsafe>Cannot operate [item]. Need to secure the room first.</dialogoperatetargetroomisunsafe>
+<dialogdraggingcorpsereaction>Oh shit!</dialogdraggingcorpsereaction>
+<dialogdraggingcorpsereaction>Killer! Killer!</dialogdraggingcorpsereaction>
+<dialogdraggingcorpsereaction>Did you do that?! Oh no!</dialogdraggingcorpsereaction>
+<dialogdraggingcorpsereactionsecurity>Hey! Let go of them right now!</dialogdraggingcorpsereactionsecurity>
+<dialogdraggingcorpsereactionsecurity>Hey! What the hell is happening here?!</dialogdraggingcorpsereactionsecurity>

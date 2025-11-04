@@ -11,7 +11,7 @@ TVAE.VoiceLineFileNames = {
     "gasping",
     "Help_Im_bleeding",
     "Im_bleeding_out",
-    "Im_losing_blood",
+    "Im_losing_blood"
 }
 
 

@@ -39,17 +39,17 @@ if CLIENT then
 		if chatMessage.sender.CharacterHealth.GetAffliction("tva_voice",false) ~= nil then
 			voiceID = chatMessage.sender.CharacterHealth.GetAffliction("tva_voice",false).Strength
 		end
-
+		
 		local voiceActor = TVAE[TVAE.ServerLang].VoiceActors[voiceID]
 		local voiceFileName = "" 
-
+		
 		-- Go throug all saved voice lines to find the right one
 		for textIdentifier, VoiceLineID in pairs(TVAE[TVAE.ServerLang].VoiceLines) do
 			if string.find(chatMessage.text,textIdentifier) ~= nil then
 				voiceFileName = TVAE.VoiceLineFileNames[VoiceLineID]
 			end
 		end
-		print(sound)
+
 		-- Is the file even laodet/saved?
 		if TVAE.LoadedSounds[voiceActor] == nil then return end
 		if TVAE.LoadedSounds[voiceActor][voiceFileName] == nil then return end
@@ -65,7 +65,7 @@ if CLIENT then
 	---@param sound Barotrauma.Sounds.OggSound
 	---@param speakerPos Vector2 --WorldPos
 	function PlaySound(sound,speakerPos)
-		print(sound)
+
 		sound.Play(100,100,speakerPos,true)
 	end
 
