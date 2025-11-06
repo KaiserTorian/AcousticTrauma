@@ -65,7 +65,6 @@ if CLIENT then
 	---@param sound Barotrauma.Sounds.OggSound
 	---@param speakerPos Vector2 --WorldPos
 	function PlaySound(sound,speakerPos)
-
 		sound.Play(100,100,speakerPos,true)
 	end
 

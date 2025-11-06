@@ -27,18 +27,25 @@ TVAE.English.VoiceActors =  {
 
 TVAE.English.VoiceLines = {}
 
-TVAE.English.VoiceLines["Need to find a diving suit!"] = 1
-TVAE.English.VoiceLines["I need diving gear!"] = 2
-TVAE.English.VoiceLines["Need to find an oxygen tank!"] = 3
-TVAE.English.VoiceLines["I need an oxygen tank!"] = 4
-TVAE.English.VoiceLines["Where are the oxygen tanks?"] = 5
-TVAE.English.VoiceLines["I need oxygen!"] = 6
-TVAE.English.VoiceLines["I'm passing out!"] = 7
-TVAE.English.VoiceLines["Can't breathe!"] = 8
-TVAE.English.VoiceLines["gasping"] = 9
-TVAE.English.VoiceLines["Help, I'm bleeding!"] = 10
-TVAE.English.VoiceLines["I'm bleeding out!"] = 11
-TVAE.English.VoiceLines["I'm losing blood!"] = 12
+TVAE.English.VoiceLine["Aye aye!"] = 1
+TVAE.ENglish.VoiceLine["Yes, sir!"] = 2
+TVAE.English.VoiceLine["Aye!"] = 3
+TVAE.ENglish.VoiceLine["Got it!"] = 4
+
+
+
+-- TVAE.English.VoiceLines["Need to find a diving suit!"] = 1
+-- TVAE.English.VoiceLines["I need diving gear!"] = 2
+-- TVAE.English.VoiceLines["Need to find an oxygen tank!"] = 3
+-- TVAE.English.VoiceLines["I need an oxygen tank!"] = 4
+-- TVAE.English.VoiceLines["Where are the oxygen tanks?"] = 5
+-- TVAE.English.VoiceLines["I need oxygen!"] = 6
+-- TVAE.English.VoiceLines["I'm passing out!"] = 7
+-- TVAE.English.VoiceLines["Can't breathe!"] = 8
+-- TVAE.English.VoiceLines["gasping"] = 9
+-- TVAE.English.VoiceLines["Help, I'm bleeding!"] = 10
+-- TVAE.English.VoiceLines["I'm bleeding out!"] = 11
+-- TVAE.English.VoiceLines["I'm losing blood!"] = 12
 
 
 
