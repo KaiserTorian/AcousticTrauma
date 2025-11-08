@@ -3,11 +3,12 @@ TVAE.ModPath = ...
 TVAE.ServerLang = "English"
 TVAE.LoadedSounds = {}
 
-dofile(TVAE.ModPath .. "/Lua/Voice_Acted_Baro/voiceLines.lua") -- English voice lines list
+dofile(TVAE.ModPath .. "/Lua/TI_Voice_Acting/TextInit/englishVoiceLines.lua") -- English voice lines list
 -- TODO: Get from the server the Language 
 
-if CLIENT then
 
+
+if CLIENT then
 	--- Fires when a chatMessage is send. Plays the right voice line.
 	---@param instance Barotrauma.ChatBox
 	---@param ptable Table

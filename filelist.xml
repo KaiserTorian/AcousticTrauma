@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="Voice Acted Baro" modversion="1.0" corepackage="False">
+<contentpackage name="Torian's Immersive Voice Acting" modversion="1.0" corepackage="False">
 	<Afflictions file="%ModDir%/Afflictions/Afflictions.xml"/>
 </contentpackage> 
